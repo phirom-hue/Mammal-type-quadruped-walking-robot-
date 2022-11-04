@@ -1,1 +1,1 @@
-# Mammal-type-quadruped-walking-robot-
+# Mammal-type-quadruped-walking-robot
